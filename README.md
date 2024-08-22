@@ -1,2 +1,2 @@
 # Python
-There are my python code
+There are my python codes
